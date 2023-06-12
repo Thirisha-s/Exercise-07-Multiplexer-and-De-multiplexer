@@ -104,6 +104,7 @@ endmodule
 ![image](https://github.com/Thirisha-s/Exercise-07-Multiplexer-and-De-multiplexer/assets/120380280/38ba1517-2068-4808-adb3-6528aedfd6c5)
 
 ## DE-MULTIPLEXER:
+![image](https://github.com/Thirisha-s/Exercise-07-Multiplexer-and-De-multiplexer/assets/120380280/f86bef4a-6138-48ee-bffe-4c30737ecfbb)
 
 ### TIMING DIGRAMS  
 ##  MULTIPLEXER:
@@ -117,6 +118,7 @@ endmodule
 ![image](https://github.com/Thirisha-s/Exercise-07-Multiplexer-and-De-multiplexer/assets/120380280/c1fe4eb2-7e01-4801-838e-ce90f39a7990)
 
 ## DE-MULTIPLEXER:
+![image](https://github.com/Thirisha-s/Exercise-07-Multiplexer-and-De-multiplexer/assets/120380280/56256d5d-67ac-477c-a920-5e82e93e0a1e)
 
 ### RESULTS :
 Therefore 4X1 multiplexer and 1X4 de multiplexer are successfully implemented using verilog and validate its outputs
